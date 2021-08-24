@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/oleh-kalynovskyi/nasa-rover/static/css/main.342c755f.chunk.css",
+    "main.js": "/oleh-kalynovskyi/nasa-rover/static/js/main.8391145d.chunk.js",
+    "main.js.map": "/oleh-kalynovskyi/nasa-rover/static/js/main.8391145d.chunk.js.map",
+    "runtime-main.js": "/oleh-kalynovskyi/nasa-rover/static/js/runtime-main.27f03dfe.js",
+    "runtime-main.js.map": "/oleh-kalynovskyi/nasa-rover/static/js/runtime-main.27f03dfe.js.map",
+    "static/js/2.1a4fea82.chunk.js": "/oleh-kalynovskyi/nasa-rover/static/js/2.1a4fea82.chunk.js",
+    "static/js/2.1a4fea82.chunk.js.map": "/oleh-kalynovskyi/nasa-rover/static/js/2.1a4fea82.chunk.js.map",
+    "index.html": "/oleh-kalynovskyi/nasa-rover/index.html",
+    "static/css/main.342c755f.chunk.css.map": "/oleh-kalynovskyi/nasa-rover/static/css/main.342c755f.chunk.css.map",
+    "static/js/2.1a4fea82.chunk.js.LICENSE.txt": "/oleh-kalynovskyi/nasa-rover/static/js/2.1a4fea82.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27f03dfe.js",
+    "static/js/2.1a4fea82.chunk.js",
+    "static/css/main.342c755f.chunk.css",
+    "static/js/main.8391145d.chunk.js"
+  ]
+}
