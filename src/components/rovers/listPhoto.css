@@ -1,0 +1,44 @@
+.ListPhoto-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+
+    width: 100%;
+    height: 100%;
+
+    padding: 15px;
+}
+
+.ListPhoto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.photos_item {
+    cursor: pointer;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.load {
+    margin: 15px 0;
+}
+.load Button:last-child {
+    margin-left: 10px;
+}
+
+.photos_item-info {
+    margin-top: -44px;
+    background: rgba(255, 255, 255, 0.7);
+    position: relative;
+}
+
+@media (max-width: 600px) {
+    .ListPhoto-wrapper {
+        justify-content: center;
+    }
+}

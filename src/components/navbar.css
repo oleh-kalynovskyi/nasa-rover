@@ -1,0 +1,47 @@
+.Navbar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+
+    background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/download-1583327893.jpeg');
+    background-position:center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    padding: 10px;
+}
+
+.Navbar-logo, .Navbar-nav  {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+
+    margin-right: 20px;
+}
+
+.Navbar-nav li {
+    margin-right: 20px;
+    text-decoration: none;
+}
+.Navbar-nav li:last-child {
+    margin-right: 0px;
+}
+.selected {
+    color: blue !important;
+}
+
+@media (max-width: 600px) {
+    .Navbar {
+        flex-direction: column;
+    }
+    .Navbar-nav {
+        margin: 20px;
+        margin-right: 0px;
+    }
+}

@@ -1,0 +1,27 @@
+
+.welcome {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+    text-align: center;
+    height: 100%;
+}
+
+.welcome-text {
+    max-width: 900px;
+    font-size: 1.5rem;
+    color: white;
+
+    background: rgba(44, 44, 44, 0.6);
+    padding: 15px;
+    border-radius: 10px;
+}
+.Rovers-link {
+    font-size: 1.5rem;
+    color: white;
+    text-decoration: underline;
+}
